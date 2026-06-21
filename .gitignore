@@ -1,0 +1,19 @@
+# Machine-specific license — never commit
+license.lic
+
+# RSA private key — never commit
+tools/private.pem
+
+# Update check timestamp
+.update_check
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# XAMPP local logs (if any land here)
+*.log
