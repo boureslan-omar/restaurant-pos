@@ -1,8 +1,8 @@
+# Developer tools — never ship to customers
+tools/
+
 # Machine-specific license — never commit
 license.lic
-
-# RSA private key — never commit
-tools/private.pem
 
 # Update check timestamp
 .update_check
